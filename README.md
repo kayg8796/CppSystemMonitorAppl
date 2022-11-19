@@ -14,7 +14,7 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 
 ## Instructions for Usage
 
-1. Clone the project repository: `git clone https://github.com/udacity/CppND-System-Monitor-Project-Updated.git`
+1. Clone the project repository: `git clone https://github.com/kayg8796/CppSystemMonitorAppl.git`
 
 2. Build the project: `make build`
 
